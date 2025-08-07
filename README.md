@@ -20,17 +20,17 @@ Copy-Paste Ready: Formatted markdown output for easy sharing
 
 **Installation**
 
-git clone https://github.com/CodeHub5199/Course-to-LinkedIn-Post-Generator.git
-cd course-to-linkedin-post-generator
-pip install -r requirements.txt
+- git clone https://github.com/CodeHub5199/Course-to-LinkedIn-Post-Generator.git
+- cd course-to-linkedin-post-generator
+- pip install -r requirements.txt
 
 **Configuration**
 
-Get your free Groq API key from cloud.groq.com
+- Get your free Groq API key from cloud.groq.com
 
 **Running the App**
 
-streamlit run new_app.py
+- streamlit run new_app.py
 
 **🎯 Usage**
 
