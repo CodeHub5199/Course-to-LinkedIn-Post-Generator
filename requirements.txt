@@ -1,2 +1,5 @@
 crewai
+
 streamlit
+
+sqlite3
