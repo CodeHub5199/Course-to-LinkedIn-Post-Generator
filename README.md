@@ -13,22 +13,27 @@ Copy-Paste Ready: Formatted markdown output for easy sharing
 **🚀 Quick Start**
 
 **Prerequisites**
+
 - Python 3.8+
 - Groq API key (free tier available)
 - Streamlit (included in requirements)
 
 **Installation**
+
 git clone https://github.com/CodeHub5199/Course-to-LinkedIn-Post-Generator.git
 cd course-to-linkedin-post-generator
 pip install -r requirements.txt
 
 **Configuration**
+
 Get your free Groq API key from cloud.groq.com
 
 **Running the App**
+
 streamlit run new_app.py
 
 **🎯 Usage**
+
 1. Paste your course description in the input box
 2. Select your preferred AI model and tone
 3. Click "Generate" to create 3 post variations
