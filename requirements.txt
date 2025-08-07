@@ -1,8 +1,5 @@
 crewai
-
 streamlit
-
 sqlite3
-
 db-sqlite3==3.35.0
-
+Chroma    
