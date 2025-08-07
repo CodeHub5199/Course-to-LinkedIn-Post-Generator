@@ -30,7 +30,7 @@ Copy-Paste Ready: Formatted markdown output for easy sharing
 
 **Running the App**
 
-- streamlit run new_app.py
+- streamlit run app.py
 
 **🎯 Usage**
 
