@@ -1,14 +1,13 @@
-📝 Course to LinkedIn Post Generator
+**📝 Course to LinkedIn Post Generator**
 
 Transform your course completion certificates into professional LinkedIn posts with AI-powered precision. This tool helps learners showcase their achievements effectively on LinkedIn.
 
-✨ Features
+**✨ Features**
 - AI-Powered Post Generation: Convert course descriptions to engaging LinkedIn posts
 - Multiple Tone Options: Choose from 8 professional writing styles
 - Model Selection: Supports Groq's fastest LLMs (Gemma2, LLaMA3-70B)
 - Responsive Design: Works on all devices with dark/light mode support
-
-Copy-Paste Ready: Formatted markdown output for easy sharing
+- Copy-Paste Ready: Formatted markdown output for easy sharing
 
 **🚀 Quick Start**
 
