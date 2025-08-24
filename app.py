@@ -145,6 +145,7 @@ st.set_page_config(
 
 # Constants
 GROQ_MODEL_LIST = [
+    'groq/llama-3.3-70b-versatile',
     'groq/Gemma2-9b-It',
     'groq/deepseek-r1-distill-llama-70b',
     'groq/llama3-70b-8192',
@@ -259,7 +260,7 @@ if api_key:
                         progress_bar.progress((i + 1) * 33)
                         
                         # Initialize agents and crew
-                        llm = LLM(model=model)
+                        llm = LLM(model=model, api_key=api_key)
                         
                         course_analyzer_agent = Agent(
                             role="Course Details Extractor",
